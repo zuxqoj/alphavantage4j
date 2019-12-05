@@ -7,3 +7,6 @@ out/
 .gradle/
 .idea
 *.iml
+*.classpath
+*.project
+*.settings/
